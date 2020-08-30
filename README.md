@@ -19,6 +19,8 @@
    <h6>2020-08-30 private project inclusion</h6>
    <br>
    
+   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ccm1441)](https://github.com/anuraghazra/github-readme-stats)
+   
    </div>
    
 <div align=center>
