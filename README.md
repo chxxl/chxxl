@@ -15,9 +15,9 @@
     
 <div align=center>
   
-   <image src = https://user-images.githubusercontent.com/20456842/91661744-dd22a880-eb18-11ea-996a-3caa94832245.PNG></image>
-   <h6>2020-08-30 private project inclusion</h6>
-   <br>
+     <image src = https://user-images.githubusercontent.com/20456842/91661744-dd22a880-eb18-11ea-996a-3caa94832245.PNG></image>
+     <h6>2020-08-30 private project inclusion</h6>
+     <br>
    
    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ccm1441)](https://github.com/anuraghazra/github-readme-stats)
    
