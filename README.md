@@ -26,8 +26,8 @@
    
 <div align=center>
   
-   [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-5CD1E5?style=flat-square&logo=rss&logoColor=white&link=https://cmportfolio.tistory.com/)](https://cmportfolio.tistory.com/)    
-   [![MyGameBlog Badge](https://img.shields.io/badge/-MyGameBlog-999999?style=flat-square&logo=rss&logoColor=white&link=https://cheolmini.tistory.com/)](https://cheolmini.tistory.com/)    
-   [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/fe_m22n/)](https://www.instagram.com/fe_m22n/)   
+   [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-5CD1E5?style=flat-square&logo=FreeBSD&logoColor=white&link=https://cmportfolio.tistory.com/)](https://cmportfolio.tistory.com/)
+   [![MyGameBlog Badge](https://img.shields.io/badge/-MyGameBlog-999999?style=flat-square&logo=rss&logoColor=white&link=https://cheolmini.tistory.com/)](https://cheolmini.tistory.com/)
+   [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/fe_m22n/)](https://www.instagram.com/fe_m22n/)
   
 </div>
