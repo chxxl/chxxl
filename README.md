@@ -11,17 +11,6 @@
 ### Programming Language
 - C++
 - C#
-
-    
-<div align=center>
-  
-
-   <image src = https://user-images.githubusercontent.com/20456842/92243360-58f76900-eefc-11ea-96dc-1eae28df5088.PNG></image>
-   <h6>2020-09-04 private project inclusion</h6>
-   <br>
-   
-   
-   </div>
    
 <div align=center>
   
