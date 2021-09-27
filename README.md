@@ -7,10 +7,6 @@
 ### Hello!
 - I develop games with Unity
 - I like bicycles and travel
-
-### Programming Language
-- C++
-- C#
    
 <div align=center>
   
