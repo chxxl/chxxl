@@ -10,6 +10,7 @@
    
 <div align=center>
   
+   [![GitBlog Badge](https://img.shields.io/badge/-GitBlog-FFBF00?style=flat-square&logo=rss&logoColor=white&link=https://chxxl.github.io/)](https://chxxl.github.io/)
    [![MyGameBlog Badge](https://img.shields.io/badge/-MyGameBlog-999999?style=flat-square&logo=rss&logoColor=white&link=https://cheolmini.tistory.com/)](https://cheolmini.tistory.com/)
    [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/fe_m22n/)](https://www.instagram.com/fe_m22n/)
   
